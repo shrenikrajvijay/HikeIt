@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <!--
+    **************************IMPORTANT***********************************
+     change this id attribute values as "frag2_icon" and "frag2_text" for
+     fragment_layout_two.xml and "frag3_icon" and "frag3_text" for
+     fragment_layout_three.xml
+    **********************************************************************
+      -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Report Bug"
+        android:textSize="30dp"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/frag2_text"
+        android:layout_width="fill_parent"
+        android:layout_height="219dp"
+        android:hint="Write your problems here.."
+        android:gravity="top"
+        android:text=""
+        android:layout_marginLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_weight="0.57" />
+
+    <Button
+        android:id="@+id/bugReportBtn"
+        android:layout_width="fill_parent"
+        android:text="Submit bug"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

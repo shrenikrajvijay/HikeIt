@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-15bee76a1926890896947d0ad66a8cae52a8949c.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-46ee7379c6e7c28dccc4d5b5fa80736af90636fc.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-0890dde4dc706302f9292d176523a5b10198028c.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-0b170f8a6e4995cbc2beab8405d270235b274a6d.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-e0c79ef2c27e3fb400725e8b721164e327eb5e64.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-edc3da63ac613b6ae680314e26ab6ba32521024a.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-654c77379051b59a760e99c4dd10ff3588fdc400.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-9624cbe7b18377bf2e65671aea4cae461c58aecf.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-c054efacf20c1a0464e9aafa2f6019e556df2eff.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-9e7c48feceee1c2f6116927f9ff920cbd7a0901f.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-d05c909c8f5466118e3d2c8d53e439f8c3c5239f.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-7419e897e47859791c9998fb7f1732d63588a62c.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-92cae6d80f3bd942a32519c4f2ff3deeb631ea13.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-d92b67e26b60acc63f18e4f0618b56a649d83fe3.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-868c9cb77b522c6163a8e322718f839d555eb455.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-ad3e51221291f650f465645d7dccc9a642975352.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-8b1ae90a2ef46fb8bcbe85937bb97299b60acefa.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/hikeitV5/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6c849b1962586527a76f505baa6b6581bdc7b139">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-a5651ae037863d97185bb4b6afbee092531b9410.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-3dbcd3cd7b61ad294107fd140b1645a8d787ea87.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-f3e710ac1c6e157cb8488acf823afe414e2abbf5.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-84c04b68479f0702fbb1915d37f50a5276837ccd.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/src/main/java/libs/signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/signpost-core-1.2.1.2-00fb50cf8840bddb1aa2843aa2ebec57d24d972f.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/hikeitV5/ParseLoginUI/unspecified/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-9e31cef89c55a260f642742f2fe8107fbf6df0dc.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-cdcd36349a75a147dcce938a65b56cc44bbe620d.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-990b905c9b9d61605d232c5a47864cf4d8c97636.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/hikeitV5/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-08c62fb770496963a64cc35009b81f31d217f628.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-86c085fb4252f12dfb3aee2422c1af8b8801703c.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-06ecc7f1e90afbffafa89c6e450ab0c48d6b61e4.jar" />
+    </item>
+    <item
+        jar="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/vijayshrenikraj/Desktop/csulb/Mobile Application/final &amp; extras/hikeitv5/app/build/intermediates/pre-dexed/debug/classes-777fce020ec4aa7cf27d37bf9adc31d877811e85.jar" />
+    </item>
+
+</items>

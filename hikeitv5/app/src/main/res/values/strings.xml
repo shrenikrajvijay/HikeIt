@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">hikeit</string>
+
+    <string name="hello_world">Hike It!</string>
+    <string name="action_settings">Settings</string>
+    <string name="secondScreen">secondScreen</string>
+    <string name="user_profile">User Profile</string>
+    <string name="parse_app_id">HHb0JI1cDfFbcM03MqGRRySWMJka0oBxUM5ZWxUg</string>
+    <string name="parse_client_key">hQNR2lpiRgxUJbN4oBrJdbN2MDDFlWCuvA4YKyuL</string>
+    <string-array name="listText">
+        <item>Name 1</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+    </string-array>
+    <string-array name="listAddress">
+        <item>Add 1</item>
+        <item>Add 2</item>
+        <item>Add 3</item>
+        <item>Add 4</item>
+        <item>Add 5</item>
+        <item>Add 6</item>
+    </string-array>
+
+    <string name="listingUrl">http:</string>
+    <string name="consumer_key">6Vk6D9ddBddD6DLl7VhQkg</string>
+    <string name="consumer_secret">zVwdD9_e5e77sHkqoyy8Ivsh30E</string>
+    <string name="api_token">4RyZZ5_kmky_GQfHllVqYc9AbWQlvOnK</string>
+    <string name="api_token_secret">mQnk7aVM1EBKFYF8jsmqTc-P2Z0</string>
+    <string name="title_activity_homescreen">Homescreen</string>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

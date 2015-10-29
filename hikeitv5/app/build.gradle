@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.mountaineer.trekking.hikeit"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:22.1.0'
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile fileTree(dir: 'libs', include: 'Parse-*.jar')
+    // Module dependency on ParseLoginUI library sources
+    compile project(':ParseLoginUI')
+    compile files('src/main/java/libs/Parse-1.9.1.jar')
+    compile files('src/main/java/libs/ParseFacebookUtilsV4-1.9.1.jar')
+    compile files('src/main/java/libs/scribe-1.1.2.jar')
+    compile files('src/main/java/libs/signpost-core-1.2.1.2.jar')
+}
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.google.android.gms:play-services:7.3.0'
+}
